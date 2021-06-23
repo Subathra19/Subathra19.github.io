@@ -3,6 +3,8 @@ author: Sri Subathra Devi B
 title: Sri Subathra Devi B | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://subathra19.github.io/"
+navbar-links:
+  About Me: "aboutme"
 
 #social-network-links:
  ##
